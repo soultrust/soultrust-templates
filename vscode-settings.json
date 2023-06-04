@@ -1,0 +1,18 @@
+{
+  "[python]": {
+    "editor.formatOnType": true,
+    "editor.tabSize": 2
+  },
+  "eslint.format.enable": true,
+  "editor.formatOnSave": true,
+  "editor.indentSize": "tabSize",
+  "editor.minimap.enabled": false,
+  "editor.rulers": [80],
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "explorer.confirmDragAndDrop": false,
+  "javascript.format.semicolons": "insert",
+  "tabnine.experimentalAutoImports": true,
+  "window.zoomLevel": 1,
+  "workbench.colorTheme": "Gruvbox Dark Medium"
+}

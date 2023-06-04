@@ -1,0 +1,26 @@
+at end of .zhrc file
+source ~/Library/Mobile\ Documents/com~apple~CloudDocs/dotfiles/.aliases
+
+
+alias ga='git add'
+alias gb='git branch'
+alias gbd='git branch -d'
+alias gco='git checkout'
+alias gcb='git checkout -b'
+alias gcm='git commit -m'
+alias gcma='git commit -m --amend'
+alias gd='git diff' # unstaged changes
+alias gdc='git diff --cached' # staged changes
+alias gf='git fetch -p origin' # removes refs to remote branches that have been deleted
+alias gl='git log --graph --all --date=relative --pretty=format:"%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)%an%Creset"'
+alias gpod='git push origin --delete' # delete remote file
+alias prune='git remote prune origin'
+alias grhh='git reset --hard HEAD'
+alias gs='git status'
+alias gsw='git switch'
+
+alias pyserver='python3 -m http.server'
+alias ll='ls -lah'
+
+
+
